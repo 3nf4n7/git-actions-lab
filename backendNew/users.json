@@ -1,0 +1,44 @@
+[
+    {
+        "name": "ADMIN",
+        "password": "123",
+        "role": "ADMIN",
+        "banStatus": "ALLOWED",
+        "passwordLimitation": "NO LIMIT"
+    },
+    {
+        "name": "tvoya",
+        "password": "sS+",
+        "role": "USER",
+        "banStatus": "ALLOWED",
+        "passwordLimitation": "NO LIMIT"
+    },
+    {
+        "name": "haha",
+        "password": "123",
+        "role": "USER",
+        "banStatus": "BANNED",
+        "passwordLimitation": "NO LIMIT"
+    },
+    {
+        "name": "kek",
+        "password": "aA+",
+        "role": "USER",
+        "banStatus": "ALLOWED",
+        "passwordLimitation": "LIMITED"
+    },
+    {
+        "name": "privet",
+        "password": "",
+        "role": "USER",
+        "banStatus": "ALLOWED",
+        "passwordLimitation": "NO LIMIT"
+    },
+    {
+        "name": "jojo",
+        "password": "",
+        "role": "USER",
+        "banStatus": "ALLOWED",
+        "passwordLimitation": "NO LIMIT"
+    }
+]
